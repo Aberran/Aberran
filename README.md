@@ -3,17 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aberran&label=Profile%20views&color=0e75b6&style=flat" alt="aberran" /> </p>
 
-<table align="center">
-  <tr>
-    <td>- 🔭 I’m currently working on <a href="https://chickenbook.pythonanywhere.com/">Web app for junior.guru community</a></td>
-  </tr>
-  <tr>
-    <td>- 🌱 I’m currently learning <strong>Test automation, Pytest, Selenium, Cypress</strong></td>
-  </tr>
-  <tr>
-    <td>- 📫 How to reach me <a href="mailto:anaberrantis@gmail.com">anaberrantis@gmail.com</a></td>
-  </tr>
-</table>
+  - 🔭 I’m currently working on <a href="https://chickenbook.pythonanywhere.com/">Web app for junior.guru community</a>
+  - 🌱 I’m currently learning <strong>Test automation, Pytest, Selenium, Cypress</strong>
+  - 📫 How to reach me <a href="mailto:anaberrantis@gmail.com">anaberrantis@gmail.com</a>
+  
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
