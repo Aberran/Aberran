@@ -3,13 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aberran&label=Profile%20views&color=0e75b6&style=flat" alt="aberran" /> </p>
 
-<div align="left">
 - 🔭 I’m currently working on [Web app for junior.guru community](https://chickenbook.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **Test automation, Pytest, Selenium, Cypress**
 
 - 📫 How to reach me **anaberrantis@gmail.com**
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
