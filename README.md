@@ -7,7 +7,7 @@
   🔭 I’m currently working on <a href="https://chickenbook.pythonanywhere.com/">Web app for junior.guru community</a><br>
   👽 If you want to read something about me and maybe take some notes :) <a href="https://aberran.pythonanywhere.com/">My personal web</a><br>
   🌱 I’m currently learning <strong>Test automation, Pytest, Selenium, Cypress</strong><br>
-  🐍 Also play a little <a href="https://chickenbook.pythonanywhere.com/">snake game</a> never hurts !<br>
+  🐍 Also play a little <a href="https://chickenbook.pythonanywhere.com/">snake game</a> never hurts !(very first project)<br>
   📫 How to reach me <a href="mailto:anaberrantis@gmail.com">anaberrantis@gmail.com</a> 
 </p>
 
