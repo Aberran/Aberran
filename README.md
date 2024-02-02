@@ -5,6 +5,7 @@
 
 <p align="center">
   🔭 I’m currently working on <a href="https://chickenbook.pythonanywhere.com/">Web app for junior.guru community</a>
+  👽 If you want to read something about me and maybe take some notes :) <a href="https://aberran.pythonanywhere.com/">My personal web</a>
   /// 🌱 I’m currently learning <strong>Test automation, Pytest, Selenium, Cypress</strong>
   /// 📫 How to reach me <a href="mailto:anaberrantis@gmail.com">anaberrantis@gmail.com</a>
 </p>
