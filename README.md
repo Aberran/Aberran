@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aberran&label=Profile%20views&color=0e75b6&style=flat" alt="aberran" /> </p>
 
 <p align="center">
-  - 🔭 I’m currently working on <a href="https://chickenbook.pythonanywhere.com/">Web app for junior.guru community</a>
-  - 🌱 I’m currently learning <strong>Test automation, Pytest, Selenium, Cypress</strong>
-  - 📫 How to reach me <a href="mailto:anaberrantis@gmail.com">anaberrantis@gmail.com</a>
+  🔭 I’m currently working on <a href="https://chickenbook.pythonanywhere.com/">Web app for junior.guru community</a>
+  /// 🌱 I’m currently learning <strong>Test automation, Pytest, Selenium, Cypress</strong>
+  /// 📫 How to reach me <a href="mailto:anaberrantis@gmail.com">anaberrantis@gmail.com</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
