@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Welcome to my profile !</h1>
-<h3 align="center">My name is Vladimír Šabík a passionate junior web developer from Slovakia</h3>
+<h3 align="center">My name is Vladimír Šabík. I am interested in the development and testing of web applications.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aberran&label=Profile%20views&color=0e75b6&style=flat" alt="aberran" /> </p>
 
