@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋. I'am Vladimír Šabík.</h1>
-<h3 align="center">Doctoral student from Slovakia, interested in the web development and software testing.</h3>
+<h3 align="center">Software engineer from Slovakia.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aberran&label=Profile%20views&color=0e75b6&style=flat" alt="aberran" /> </p>
 
